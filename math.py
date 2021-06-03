@@ -1,10 +1,10 @@
 #Add implementation
 def add(x,y):
-    return x+y                  
+    pass                  
     
 #Subtract implementation
 def subtract(x,y):
-    return x-y              
+    pass              
     
 #Multiplication implementation
 def multiply(x,y):
